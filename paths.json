@@ -1,0 +1,37 @@
+[
+  {
+    "id": "/formatter/js",
+    "title": "JavaScript/TypeScript Code Formatter",
+    "image": "https://simpleicons.vercel.app/javascript/F7DF1E"
+  },
+  {
+    "id": "/formatter/css",
+    "title": "CSS <br /> Code Formatter",
+    "image": "https://simpleicons.vercel.app/css3/1572B6"
+  },
+  {
+    "id": "/formatter/html",
+    "title": "HTML <br /> Code Formatter",
+    "image": "https://simpleicons.vercel.app/html5/E34F26"
+  },
+  {
+    "id": "/formatter/json",
+    "title": "JSON <br /> Code Formatter",
+    "image": "https://simpleicons.vercel.app/json/fff"
+  },
+  {
+    "id": "/formatter/md",
+    "title": "Markdown <br /> Code Formatter",
+    "image": "https://simpleicons.vercel.app/markdown/fff"
+  },
+  {
+    "id": "/formatter/php",
+    "title": "PHP <br /> Code Formatter",
+    "image": "https://simpleicons.vercel.app/php/777BB4"
+  },
+  {
+    "id": "/formatter/sql",
+    "title": "SQL Query Formatter (10 options)",
+    "image": "https://simpleicons.vercel.app/postgresql/4169E1"
+  }
+]
