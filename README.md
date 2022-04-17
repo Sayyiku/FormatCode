@@ -2,7 +2,7 @@
  * @Author: Sayyiku
  * @Date: 2022-04-17 21:34:33
  * @LastEditors: Sayyiku
- * @LastEditTime: 2022-04-17 22:12:50
+ * @LastEditTime: 2022-04-17 22:17:58
  * @FilePath: \only-formats\README.md
  * @Description: 
  * 
@@ -70,9 +70,9 @@ npm install
 # OR
 pnpm install
 ```
-```
 
-Then, Finally, Start the server!
+
+#### Then, Finally, Start the server!
 
 ```sh
 npm run dev
