@@ -2,7 +2,7 @@
  * @Author: Sayyiku
  * @Date: 2022-04-17 21:34:33
  * @LastEditors: Sayyiku
- * @LastEditTime: 2022-04-17 21:58:38
+ * @LastEditTime: 2022-04-17 22:12:50
  * @FilePath: \only-formats\README.md
  * @Description: 
  * 
@@ -51,7 +51,7 @@ you can add a new language to format code or fix any bugs and add any features y
 
 ## Installation and Running
 
-Here is a quick and easy guide for you to run OnlyFormats for development, or self hosting it
+Here is a quick and easy guide for you to run FormatCode for development, or self hosting it
 for yourself.
 
 ### Clone the GitHub repo
