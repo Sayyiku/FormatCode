@@ -90,4 +90,4 @@ yarn dev
 
 ## Authors
 
-- [Usman](https://github.com/Sayyiku)
+- [Sayyiku](https://github.com/Sayyiku)
